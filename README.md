@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+<p align="left"> 
+  <a href="https://github.com/Saza-ku/Saza-ku/">
+    <img src="https://komarev.com/ghpvc/?username=Saza-ku" alt="Saza-ku" />
+  </a>
+  <a href="http://twitter.com/Saza_xxx">
+    <img height="20" src="https://img.shields.io/twitter/follow/Saza_xxx?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/Saza-ku">
+    <img height="20" src="https://img.shields.io/github/followers/Saza-ku?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/Saza-ku">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Saza-ku/posts.svg" />
+  </a>
+  <//qiita.com/Saza-ku">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Saza-ku/contributions.svg" />
+  </a>
+</p>
+
 <!--
 **Saza-ku/Saza-ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
