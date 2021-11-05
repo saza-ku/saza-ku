@@ -18,7 +18,7 @@
   </a>
 </p>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saza-ku&show_icons=true&theme=radical)
+![Saza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saza-ku&show_icons=true&theme=radical)
 
 
 
