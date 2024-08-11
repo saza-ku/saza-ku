@@ -1,5 +1,7 @@
 ![header](./assets/saza-san-header.png)
 
+<div align="you like"><img src="https://skillicons.dev/icons?i=go,zig,kubernetes,wasm" /></div><div align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saza-ku&count_private=true&theme=default"/></div>
+
 My personal website → [https://saza.dev](https://saza.dev)
 
 <!--
