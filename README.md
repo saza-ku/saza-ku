@@ -1,6 +1,6 @@
 ![header](./assets/saza-san-header.png)
 
-<div align="you like"><img src="https://skillicons.dev/icons?i=go,zig,kubernetes,wasm" /></div>
+<div align="you like"><img src="https://skillicons.dev/icons?i=go,rust,zig,kubernetes,wasm" /></div>
 
 My personal website → [https://saza.dev](https://saza.dev)
 
